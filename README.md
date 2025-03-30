@@ -33,13 +33,11 @@ GetIt is a modern Q&A platform designed to connect knowledge seekers with domain
 
 ## Team
 
-| Name | Role | Contact |
-|------|------|---------|
-| Praneeth Kumar | Team Lead & Full-stack Developer | praneeth@getit.com |
-| Maya Rodriguez | Frontend Engineer | maya@getit.com |
-| Raj Patel | Backend Developer | raj@getit.com |
-| Sarah Chen | UX/UI Designer | sarah@getit.com |
-| Alex Johnson | DevOps Engineer | alex@getit.com |
+
+| Darshan Karthikeya
+| Srirama Murthy
+| Nagendra Kumar
+
 
 ## Features
 
