@@ -1,11 +1,8 @@
 # GetIt
 
-<p align="center">
-  <img src="public/logo.png" alt="GetIt Logo" width="200"/>
-</p>
 
 <p align="center">
-  <b>Your one-stop solution for community-based Q&A and knowledge sharing</b>
+  <b>GET-IT</b>
 </p>
 
 <p align="center">
